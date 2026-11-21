@@ -135,8 +135,8 @@ The model was evaluated using training and testing accuracy.
 
 | Evaluation Metric | Result |
 |---|---|
-| Training Accuracy | [Add your result] |
-| Testing Accuracy | [Add your result] |
+| Training Accuracy | 0.8342245989304813 |
+| Testing Accuracy | 0.7619047619047619 |
 
 *Note: Replace the placeholders with the actual accuracy values obtained when running the notebook.*
 
